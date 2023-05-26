@@ -57,8 +57,6 @@ If you want to know the different usage of code in the app, you can check the do
 
 App is based on MVVM architecture and a repository pattern.
 
-The app has a single activity with multiple fragments.
-
 The app uses Jetpack Compose Navigation.
 
 ## Contributing
