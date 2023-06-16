@@ -38,7 +38,7 @@ This app has been tested in a Pixel 3XL, to take in consideration the screen siz
 1. Clone this repository and open it in Android Studio.
     - To use the app with location services, you need to have a Google Maps API key. You can get yours [here](https://developers.google.com/maps/documentation/android-sdk/get-api-key).
 
-2. Add the following lines to the `gradle.properties` file located in this path [ComposeRealState/](https://github.com/juanriqu/Compose-Real-Estate-App/tree/main/ComposeRealState/) and add the following lines like this example below:
+2. Add the following lines to the `gradle.properties` file located in this path [ComposeRealState/gradle.properties](https://github.com/juanriqu/Compose-Real-Estate-App/tree/main/ComposeRealState/gradle.properties) and add the following lines like this example below:
 
    `GOOGLE_MAPS_API_KEY= "YOUR_API_KEY"`
 
